@@ -1,0 +1,1 @@
+UPDATE staff SET `Password` = MD5('1234') WHERE `Email` = 'admin@bank.co.ke'
